@@ -1,3 +1,3 @@
 # Testing
 
-Some description
+this is the description of the project.
