@@ -1,4 +1,5 @@
 This README.md has both English and Chinese versions. To see the Chinesee version, please scroll down.
+
 这个README文件有英文和中文版本。请下滑看中文版本。
 
 # English version
@@ -14,9 +15,9 @@ RFM is a method used to categorize customers based on their purchasing history (
 
 RFM stands for three key metrics:
 
-- **R = Recency**: How long it has been since the customer’s last purchase  
-- **F = Frequency**: How often the customer makes purchases  
-- **M = Monetary**: How much money the customer has spent in total  
+- **R = Recency**: How long it has been since the customer’s last purchase. A higher R value indicates that the customer has not made a purchase for a longer period, while a lower R value means the customer has made a recent transaction.
+- **F = Frequency**: How often the customer makes purchases. A higher F value indicates that the customer makes purchases more frequently, while a lower F value suggests lower activity.
+- **M = Monetary**: How much money the customer has spent in total. A higher M value represents a higher customer value, while a lower M value indicates a lower customer value.
 
 By scoring customers based on these three indicators, we can classify them into different segments:
 
@@ -65,9 +66,9 @@ RFM是一种通过分析用户购买商品历史的方法对用户进行用户�
 
 RFM 是三个英文单词的缩写：
 
-- **R = Recency（最近一次的购买时间）**：距离上次购买商品多长时间了  
-- **F = Frequency（购买频率）**：购买商品的次数  
-- **M = Monetary（消费额度）**：一共花了多少钱  
+- **R = Recency（最近一次的购买时间）**：距离上次购买商品多长时间了. R值越大，说明客户已经较长时间未进行交易；R值越小，则表示客户近期刚有交易行为。 
+- **F = Frequency（购买频率）**：购买商品的次数。F值越大，说明客户交易越频繁；F值越小，则表示客户的活跃度较低。 
+- **M = Monetary（消费额度）**：一共花了多少钱。M值越大，代表客户贡献的价值越高；M值越小，则说明客户的交易价值较低。
 
 使用以上三个指标给客户打分，就可以根据得分对不同类型的客户进行分类：
 
